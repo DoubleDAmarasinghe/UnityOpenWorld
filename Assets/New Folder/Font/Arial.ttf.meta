@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 53ccb12eb173457f9913dee4c311b25f
+timeCreated: 1630411446
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 13
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Arial"
+  fontNames:
+  - Liberation Sans
+  - Arial
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
